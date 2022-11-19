@@ -67,6 +67,8 @@ body {
 	--rotation: 330deg;
 }
 
+
+
 .clock .hand {
 	--rotation: 0;
 	position: absolute;
